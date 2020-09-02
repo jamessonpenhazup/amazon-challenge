@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Carousel Component should  BigCarousel render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing Carousel Component should Footer render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing Carousel Component should LittleCarousel render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing Carousel Component should Menu render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing Carousel Component should SearchComponent render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing render Components should  BigCarousel render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing render Components should Footer render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing render Components should LittleCarousel render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing render Components should Menu render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Testing render Components should SearchComponent render correctly 1`] = `ShallowWrapper {}`;
