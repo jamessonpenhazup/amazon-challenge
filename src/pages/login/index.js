@@ -52,9 +52,7 @@ function Login() {
 
           <Form.Control onChange={passwordChange} type="password" placeholder="Password" />
         </Form.Group>
-        <Form.Text variant="success">
-          {alert}
-        </Form.Text>
+     
         <CButton variant="primary" onClick={() => auth()}>
           Sign-In
   </CButton>
@@ -64,6 +62,9 @@ function Login() {
     </Form.Text>
         </Form.Group>
       </CForm>
+      <Form.Text >
+          {alert}
+        </Form.Text>
     </CDiv>
   );
 };
